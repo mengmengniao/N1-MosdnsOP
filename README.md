@@ -4,8 +4,8 @@
 [luci-app-amlogic](https://github.com/ophub/luci-app-amlogic)：系统更新、文件传输、CPU 调频等<br>
 luci-app-dockerman：docker 管理<br>
 [luci-app-passwall](https://github.com/xiaorouji/openwrt-passwall)：科学上网<br>
-luci-app-samba4：存储共享
-[luci-app-mosdns](https://github.com/sbwml/luci-app-mosdns)：DNS转发器<br>（在nantayo精简版上新增一个插件）
+luci-app-samba4：存储共享<br>
+[luci-app-mosdns](https://github.com/sbwml/luci-app-mosdns)：DNS转发器（在nantayo精简版上新增一个插件）<br>
 
 ***
 # 致谢
